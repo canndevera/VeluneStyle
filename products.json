@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Ala Sastrera",
+    "price": 79.9,
+    "img": "img/img1.jpeg",
+    "description": "Chaqueta estructurada con corte refinado y caída suave, perfecta para un look sofisticado."
+  },
+  {
+    "id": 2,
+    "name": "Top de Seda Celeste",
+    "price": 49.5,
+    "img": "img/img2.jpeg",
+    "description": "Prenda ligera y fluida, con un aire etéreo y muy femenino."
+  },
+  {
+    "id": 3,
+    "name": "Ala Strapless",
+    "price": 59,
+    "img": "img/img3.jpeg",
+    "description": "Diseño limpio y sensual, pensado para destacar con naturalidad."
+  },
+  {
+    "id": 4,
+    "name": "Blusa de Velo",
+    "price": 99,
+    "img": "img/img4.jpeg",
+    "description": "Blusa delicada con movimiento y una estética romántica y elegante."
+  },
+  {
+    "id": 5,
+    "name": "Top de Alma",
+    "price": 45,
+    "img": "img/img5.jpeg",
+    "description": "Versión minimalista y sofisticada para looks de día o salida."
+  },
+  {
+    "id": 6,
+    "name": "Falda de Brisa",
+    "price": 54.9,
+    "img": "img/img6.jpeg",
+    "description": "Falda con caída suave y carácter femenino, ideal para estilizar con actitud."
+  },
+  {
+    "id": 7,
+    "name": "Abrigo de Cielo",
+    "price": 89.5,
+    "img": "img/img7.jpeg",
+    "description": "Abrigo urbano con textura y volumen que aporta una vibra elegante."
+  },
+  {
+    "id": 8,
+    "name": "Conjunto de Aire",
+    "price": 69.9,
+    "img": "img/img8.jpeg",
+    "description": "Set cómodo y contemporáneo con un aire relajado y muy chic."
+  },
+  {
+    "id": 9,
+    "name": "Camisa de Lino",
+    "price": 57,
+    "img": "img/img9.jpeg",
+    "description": "Camisa fresca con líneas suaves y un estilo effortless."
+  },
+  {
+    "id": 10,
+    "name": "Chaqueta de Vuelo",
+    "price": 74,
+    "img": "img/img10.jpeg",
+    "description": "Chaqueta ligera con personalidad, pensada para looks dinámicos."
+  },
+  {
+    "id": 11,
+    "name": "Tapado de Ala",
+    "price": 62.5,
+    "img": "img/img11.jpeg",
+    "description": "Tapado amplio con movimiento y una silueta moderna y femenina."
+  },
+  {
+    "id": 12,
+    "name": "Tapado de Noche",
+    "price": 109.9,
+    "img": "img/img12.jpeg",
+    "description": "Vestido sofisticado con presencia y un corte que realza la figura."
+  },
+  {
+    "id": 13,
+    "name": "Set de Cristal",
+    "price": 84,
+    "img": "img/img13.jpeg",
+    "description": "Combinación elegante y contemporánea con un estilo muy editorial."
+  },
+  {
+    "id": 14,
+    "name": "Abrigo de Bruma",
+    "price": 72,
+    "img": "img/img14.jpeg",
+    "description": "Diseño etéreo y minimalista, ideal para un look de impacto suave."
+  },
+  {
+    "id": 15,
+    "name": "Blazer de Vanguardia",
+    "price": 95,
+    "img": "img/img15.jpeg",
+    "description": "Prenda estructurada con carácter, perfecta para el día y la noche."
+  }
+]
